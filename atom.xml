@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Duoku UED]]></title>
+  <link href="http://duoku.github.com/atom.xml" rel="self"/>
+  <link href="http://duoku.github.com/"/>
+  <updated>2012-09-16T17:59:00+08:00</updated>
+  <id>http://duoku.github.com/</id>
+  <author>
+    <name><![CDATA[Duoku]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
